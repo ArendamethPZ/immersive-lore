@@ -1,0 +1,8 @@
+VERSION = 1,
+
+option ImmersiveLore.BlacklistedStories
+{
+    type = string, default = ,
+    page = ImmersiveLore_Options,
+    translation = ImmersiveLore_BlacklistedStories,
+}
